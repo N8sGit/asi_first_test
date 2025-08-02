@@ -3,9 +3,9 @@
 
 ## Rationale
 
-Perhaps you’ve heard of Humanity’s Last Exam. It's one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models  score around 25% at the highest settings, and whether they do so by genuinely solving the problems or by memorizing answer leaks in their training data is debated. 
+[Humanity’s Last Exam](https://lastexam.ai/) is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models  score around 25% at the highest settings, and whether they do so by genuinely solving the problems or by memorizing answer leaks in their training data is debated. 
 
-Meanwhile, there's talk about Artificial Superintelligence (ASI) potentially being on the horizon. AI that can improve AI autonomously has been proved in concept in recent research, and while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
+Meanwhile, there's talk about Artificial Superintelligence (ASI) potentially being on the horizon. AI that can improve AI autonomously has been proved in concept in recent research, see ([ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch/tree/main) for one example, although several others exist, such as Absolute Zero Reasoner and Darwinian Gödel Machines). And while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
 
 A question looms, however. How will we know when ASI has actually been achieved? How can we determine something is smarter than us? The question has the makings of an epistemological paradox. As traditional Q/A benchmarks become saturated, we will need to think creatively.
 
