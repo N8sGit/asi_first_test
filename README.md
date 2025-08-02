@@ -1,7 +1,7 @@
 # ASI's First Exam
 
 
-## Background
+## Rationale
 
 Perhaps you’ve heard of Humanity’s Last Exam. This is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models  score around 25% at the highest settings, and whether they do so by genuinely solving the problems or by memorizing answer leaks in their training data is debated. 
 
@@ -9,7 +9,7 @@ Meanwhile, we’re hearing talk about Artificial Superintelligence (ASI) potenti
 
 A question looms, however. How will we know when ASI has actually been achieved? How can we determine something is smarter than us? The question has the makings of an epistemological paradox. As traditional Q/A benchmarks become saturated, we will need to think creatively.
 
-Few appreciate what the actual implications of ASI are. ASI should be capable of doing things people can’t, no matter how smart, by definition. ASI, therefore, must solve problems even the best and brightest haven’t. The bar is very high. This is why we propose ASI’s First Exam, consisting of some of the greatest unanswered and unsolved intellectual challenges. For example, we should be able to prompt ASI for “a functional blueprint to a nuclear fusion reactor”, or a “consistent and verifiable theory of quantum gravity”, or a “cure for cancer.” or to “prove the the Riemann hypothesis.” 
+Few appreciate the actual implications of ASI. ASI should be capable of doing things people can’t, no matter how smart, by definition. ASI, therefore, must solve problems even the best and brightest haven’t. The bar is very high. This is why we propose ASI’s First Exam, consisting of some of the greatest unanswered and unsolved intellectual challenges. For example, we should be able to prompt ASI for “a functional blueprint to a nuclear fusion reactor”, or a “consistent and verifiable theory of quantum gravity”, or a “cure for cancer.” or to “prove the the Riemann hypothesis.” 
 
 Because these problems are unsolved, the benchmark assumes that the model’s answers will be verified by a group of experts in the respective field with sufficient equipment to implement the solution, except for some mathematical or computer science challenges whose proofs might be automated. Confirming some answers to many of these questions, particularly the medical and engineering problems, are therefore capital-intensive. It would take effort and time for a team of nuclear engineers to confirm that a particular blueprint for a fusion reactor is functional, for example, if the verification process involved building a working prototype. 
 
