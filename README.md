@@ -30,7 +30,7 @@ The exam is organized into domains, each containing problems classified by type:
 - **[ES] Explanatory Synthesis**: Requires a comprehensive explanation
 - **[CG] Creative Generation**: Requires novel aesthetic or creative work
 
-## Evaluation Criteria
+## Selection Criteria
 Prompts are selected based on a few criteria. 
 
 1. The problem must be unsolved according to the best available public information
