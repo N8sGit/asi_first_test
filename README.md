@@ -7,7 +7,7 @@
 
 Meanwhile, there's talk about Artificial Superintelligence (ASI) potentially being [on the horizon](https://www.nbcnews.com/tech/tech-news/zuckerberg-says-ai-superintelligence-sight-touts-new-era-personal-empo-rcna221918). AI that can improve AI autonomously has been proved in concept in recent research, (see [ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch/tree/main) for one example, although several others exist, such as Absolute Zero Reasoner and Darwinian Gödel Machines). And while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
 
-A question looms, however. How will we know when ASI has actually been achieved? How can we determine something is smarter than us? The question has the makings of an epistemological paradox. As traditional Q/A benchmarks become saturated, we will need to think creatively if we are to test beyond our own epistemic horizons.
+A question looms, however. How will we know when ASI has actually been achieved? How can we determine something is smarter than us? The question has the makings of an epistemological paradox. As traditional Q/A benchmarks become saturated, we will need to think creatively if we are to test beyond our own knowledge limits.
 
 Few appreciate the actual implications of ASI. ASI should be capable of doing things people can’t, no matter how smart, by definition. ASI, therefore, must solve problems even the best and brightest haven’t. The bar is very high. This is why we propose ASI’s First Exam, consisting of some of the greatest unanswered and unsolved intellectual challenges. For example, we should be able to prompt ASI for “a functional blueprint to a nuclear fusion reactor”, or a “consistent and verifiable theory of quantum gravity”, or a “universal therapy framework for cancer” or to “prove the Riemann hypothesis.” 
 
@@ -16,6 +16,8 @@ Because these problems are unsolved, the benchmark assumes that the model’s an
 One advantage to this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display genuine superintelligence to propose true solutions. No amount of memorization or pattern association will suffice. 
 
 There may come a time when ASI is so intelligent that we can't verify its answers because we no longer posses a frame of reference to connect what it says to human knowledge. It would be like trying to explain quantum computers to a caveman. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
+
+The purpose of this benchmark is to challenge AI researchers and developers to think about the actual implications and sufficient conditions of ASI. 
 
 ---
 
