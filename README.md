@@ -15,7 +15,7 @@ Because these problems are unsolved, the benchmark assumes that the model’s an
 
 One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display genuine superintelligence to propose true solutions. No amount of memorization or pattern recognition will suffice. 
 
-There may come a time when ASI is so intelligent that we can't verify its answers because we no longer posses a frame of reference to connect what it says to human knowledge. It would be like trying to explain quntum physics to a caveman. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
+There may come a time when ASI is so intelligent that we can't verify its answers because we no longer posses a frame of reference to connect what it says to human knowledge. It would be like trying to explain quantum physics to a caveman. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
 
 ---
 
