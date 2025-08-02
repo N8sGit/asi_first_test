@@ -44,7 +44,7 @@ The criteria do not account for the capital requirements and implementation cost
 ## Domains
 
 1. Mathematics
-2. Science (Physics & Biology)
+2. Natural Science
 3. Medicine & Health
 4. Environmental Science & Energy
 5. Engineering & Technology
