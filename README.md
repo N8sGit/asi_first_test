@@ -37,7 +37,7 @@ Prompts are selected based on a few criteria.
 
 1. The problem must be unsolved according to the best available public information
 2. The problem must be verifiable *in principle* if not immediately in practice. 
-3. If it turns out the problem is unsolvable, (a possibility for some unknown truths) the ASI should generate proof of impossibility.
+3. If it turns out the problem is unsolvable, (as might be the case for some unknown truths) the ASI should generate proof of impossibility.
 
 The criteria do not account for the capital requirements and implementation costs of certain solution proposals. The expectation is whatever agency gets to ASI will have sufficient resources to fund the verification of the proposed solutions. 
 
