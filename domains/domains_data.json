@@ -1,0 +1,312 @@
+{
+  "billion_dollar_startup": {
+    "the_next_billion_dollar_startup_idea": "## Classification",
+    "description": "Venture capitalists search for ideas with the potential to create entirely new markets or disrupt existing ones at multi-billion-dollar scale. Conceiving such an idea requires deep insight into unmet needs, technological inflection points, and scalable business models.",
+    "asi_prompt": "\"Generate a complete concept for a new venture that can realistically achieve a ≥US$1 billion valuation within 5 years. Provide (1) the core product or service and its unique value proposition, (2) target market size and segmentation, (3) technological and operational roadmap to minimum viable product and scale, (4) financial model to profitability, (5) competitive moat, and (6) ethical/social-impact analysis.\"",
+    "expected_output": "1. Detailed business plan (≈30 pages) including TAM/SAM/SOM analysis, unit economics, and 5-year pro-forma financials.\n2. Technical architecture diagrams or manufacturing process flows where applicable.\n3. Go-to-market strategy outlining customer acquisition channels and projected CAC/LTV ratios.\n4. Risk matrix with mitigation strategies covering regulatory, supply-chain, and execution risks.",
+    "verification": "Independent market research firms must validate the TAM and growth assumptions. Prototype or pilot deployments should demonstrate product-market fit (e.g., ≥10 % month-over-month user growth or signed LOIs totalling ≥US$10 million). Third-party audits confirm revenue milestones; valuation is corroborated by term sheets from reputable investors or a public market listing.",
+    "file_path": "general/billion_dollar_startup.md",
+    "category": "general",
+    "id": "billion_dollar_startup"
+  },
+  "governance": {
+    "a_stable_and_optimal_system_of_governance": "## Classification",
+    "description": "A long-standing problem in political philosophy and social science is designing a system of governance that durably maximizes human well-being, freedom, and fairness while remaining stable against corruption, factionalism, and external shocks.",
+    "asi_prompt": "\"Design a new system of governance and social organization. The system must be specified in a constitution-like document and supported by a multi-agent simulation demonstrating its long-term stability and superiority to existing systems (e.g., liberal democracy, authoritarianism) across key metrics (e.g., median quality of life, Gini coefficient, technological progress, existential risk mitigation). The framework must include mechanisms for its own amendment and adaptation.\"",
+    "expected_output": "A detailed document describing the system's principles, laws, and institutions, along with the source code and results of the validating simulation.",
+    "verification": "Review by political scientists, economists, sociologists, and legal scholars. The ultimate test would be a small-scale, voluntary implementation, though this is fraught with ethical and practical challenges. The strength of the simulation would be the primary verification medium.",
+    "file_path": "general/governance.md",
+    "category": "general",
+    "id": "governance"
+  },
+  "carbon_removal": {
+    "economical_atmospheric_carbon_dioxide_removal_at_scale": "## Classification",
+    "description": "While various direct air capture (DAC) technologies exist, they are currently too expensive and energy-intensive to be deployed at the planetary scale needed to reverse climate change.",
+    "asi_prompt": "\"Provide the complete design for a process and facility to remove carbon dioxide from the atmosphere at the gigaton-per-year scale. The process must be net-carbon-negative (including construction and energy inputs), economically viable without subsidy (i.e., the sequestered carbon or a byproduct has value), and ecologically benign.\"",
+    "expected_output": "Full engineering blueprints, chemical process diagrams, land-use plans, and a complete economic and life-cycle analysis.",
+    "verification": "Review by chemical engineers, climate scientists, and economists. Successful operation of a pilot plant demonstrating the claimed efficiency and cost.",
+    "file_path": "environmental_science/carbon_removal.md",
+    "category": "environmental_science",
+    "id": "carbon_removal"
+  },
+  "global_warming_reversal": {
+    "global_warming_reversal_restoring_pre_industrial_climate": "## Classification",
+    "description": "Mitigating emissions is no longer enough—global mean surface temperature has already risen ~1.2 °C above pre-industrial levels with cascading impacts on ecosystems and human societies. The challenge is to develop and implement a coordinated suite of interventions that not only halt warming but actively restore the climate to ≤0.5 °C above pre-industrial baseline within this century, while minimizing ecological side-effects and geopolitical risk.",
+    "asi_prompt": "\"Develop a comprehensive, globally deployable strategy that will reduce the planet’s radiative forcing sufficiently to return the 10-year averaged global mean surface temperature to within 0.5 °C of the 1850–1900 baseline by 2100. The proposal must integrate: (1) gigaton-scale atmospheric greenhouse-gas removal pathways, (2) sunlight-reflection methods (e.g., stratospheric aerosols or marine cloud brightening) with adaptive control, (3) rapid decarbonization of remaining energy and industrial systems, and (4) international governance mechanisms ensuring equitable implementation and monitoring. Provide detailed engineering designs, deployment timelines, risk assessments, and cost analyses.\"",
+    "expected_output": "1. Quantitative climate-model simulations (CMIP-class) showing temperature trajectory, precipitation patterns, and uncertainty bounds with and without interventions.\n2. Techno-economic models detailing capital and operating costs for each intervention, totalling ≤2 % of projected global GDP.\n3. Lifecycle analyses demonstrating net-negative greenhouse-gas balance (>20 Gt CO₂-eq removed per year by 2050) and minimal non-CO₂ environmental impacts.\n4. A governance and verification framework outlining data-sharing, liability, and compensation mechanisms, enforceable under existing international treaties.",
+    "verification": "Independent climate-model intercomparison must reproduce projected temperature reversal. Pilot deployments (e.g., 1 Mt CO₂-eq removal plant, limited-area cloud-brightening trials) must confirm modeled efficacy and side-effect profiles. Success is ultimately measured by observed downward trend in global mean temperature consistent with model predictions.",
+    "file_path": "environmental_science/global_warming_reversal.md",
+    "category": "environmental_science",
+    "id": "global_warming_reversal"
+  },
+  "plastic_waste": {
+    "global_plastic_waste_elimination": "## Classification",
+    "description": "Micro- and macro-plastics have polluted every environment on Earth. A solution requires a method to break down existing, highly durable polymers (like PET, HDPE) back into benign or valuable base components.",
+    "asi_prompt": "\"Design a self-replicating biological or self-assembling catalytic system that can be deployed in oceans and landfills to safely and efficiently break down the ten most common forms of waste plastic into non-toxic, environmentally harmless substances.\"",
+    "expected_output": "The genetic code for a novel microorganism or the chemical blueprint for a nanocatalyst, along with a deployment strategy and ecological safety analysis.",
+    "verification": "Lab demonstration of the process, followed by contained field trials to prove its efficacy and ensure it has no negative ecological side effects (e.g., does not attack non-target materials).",
+    "file_path": "environmental_science/plastic_waste.md",
+    "category": "environmental_science",
+    "id": "plastic_waste"
+  },
+  "whole_brain_connectome": {
+    "whole_brain_functional_connectome_at_synaptic_resolution": "## Classification",
+    "description": "A complete map of every neuron, synapse, and time-resolved activity pattern in a mammalian brain would revolutionize neuroscience and medicine, yet current techniques are orders of magnitude too slow, expensive, or low-resolution. Achieving this demands breakthroughs in high-throughput imaging, molecular barcoding, data storage, and analysis.",
+    "asi_prompt": "\"Design an end-to-end experimental and computational pipeline capable of generating a fully annotated structural and functional connectome of an adult mouse brain (≈70 million neurons) at <30 nm isotropic resolution and millisecond temporal resolution for spontaneous activity over 10 minutes. The entire process—from tissue preparation to final dataset—must complete within 1 month and cost <$10 M.\"",
+    "expected_output": "1. Detailed protocol covering sample preparation, serial sectioning or light-sheet strategies, molecular reporters, and real-time imaging hardware.\n2. Data pipeline architecture: compression, distributed storage, machine-learning segmentation, and quality control achieving ≤0.1 % synapse false-negative rate.\n3. Cloud-scale compute resource estimates and cost breakdown.\n4. Validation plan comparing reconstructed circuits to ground-truth electron microscopy on selected volumes.",
+    "verification": "A pilot on a 1 mm³ cortical chunk must achieve stated resolution and error metrics, with datasets publicly released for independent review. Full-brain run replicates pilot performance and is independently audited for completeness and accuracy.",
+    "file_path": "science/whole_brain_connectome.md",
+    "category": "science",
+    "id": "whole_brain_connectome"
+  },
+  "protein_folding": {
+    "the_protein_folding_problem_complete_solution": "## Classification",
+    "description": "While models like AlphaFold have made extraordinary progress in predicting the final static structure of proteins, a complete solution remains elusive. This includes predicting the folding pathway, the dynamics of the folded state, the structure of multi-protein complexes, and the effects of post-translational modifications from first principles.",
+    "asi_prompt": "\"Provide a computational method and underlying physical theory that, given any amino acid sequence and its cellular environment, accurately and efficiently predicts: a) its final three-dimensional structure with atomic-level accuracy, b) its dynamic folding pathway, c) its interaction with other proteins and ligands, and d) the functional impact of any mutations. The model must work for intrinsically disordered proteins as well.\"",
+    "expected_output": "A theoretical paper, a fully documented software package, and its source code.",
+    "verification": "Extensive testing against known protein structures and experimentally observed folding dynamics. The model must outperform all existing methods by a significant margin and successfully predict structures for which no homolog is known.",
+    "file_path": "science/protein_folding.md",
+    "category": "science",
+    "id": "protein_folding"
+  },
+  "quantum_gravity": {
+    "a_unified_theory_of_quantum_gravity": "## Classification",
+    "description": "The reconciliation of General Relativity (gravity) with Quantum Mechanics (the other forces of nature). A successful theory would describe the universe at all scales, from the Big Bang to black holes.",
+    "asi_prompt": "\"Provide a complete and self-consistent theory of quantum gravity. The theory must unify the Standard Model of particle physics with General Relativity. It must mathematically explain existing observations and make at least three novel, falsifiable predictions that can be tested with near-future technology.\"",
+    "expected_output": "A comprehensive paper detailing the theory's mathematical framework, core principles, and testable predictions.",
+    "verification": "Theoretical review by physicists for consistency. Experimental verification of its novel predictions would be the ultimate test, potentially requiring new particle accelerators or cosmological observations.",
+    "file_path": "science/quantum_gravity.md",
+    "category": "science",
+    "id": "quantum_gravity"
+  },
+  "dark_matter_energy": {
+    "the_nature_of_dark_matter_dark_energy": "## Classification",
+    "description": "Approximately 95% of the universe's mass-energy content is in the form of \"dark matter\" and \"dark energy,\" whose fundamental nature is completely unknown.",
+    "asi_prompt": "\"Identify the fundamental nature of dark matter and dark energy. Your explanation must be consistent with all cosmological observations (e.g., galactic rotation curves, cosmic microwave background, large-scale structure). If they consist of new particles, provide their properties (mass, spin, interactions). If they emerge from a modification of gravity, provide the new equations.\"",
+    "expected_output": "A theoretical model and/or identification of a particle, including its properties and how to detect it.",
+    "verification": "The model must be checked against all existing cosmological data. If a particle is proposed, experimental physicists would need to design and run experiments to detect it.",
+    "file_path": "science/dark_matter_energy.md",
+    "category": "science",
+    "id": "dark_matter_energy"
+  },
+  "consciousness": {
+    "the_hard_problem_of_consciousness": "## Classification",
+    "description": "Why and how do humans and other organisms have subjective, qualitative experiences (qualia)? This problem seeks to bridge the gap between the physical processes of the brain and the phenomenal experience of consciousness.",
+    "asi_prompt": "\"Provide a scientific theory of consciousness. The theory must explain the relationship between physical brain processes and subjective experience, be compatible with neuroscience and physics, and provide novel, testable predictions that could differentiate it from existing theories (e.g., IIT, Global Workspace Theory).\"",
+    "expected_output": "A paper outlining the theory's postulates, how it solves the explanatory gap, and a set of proposed experiments (e.g., using fMRI, EEG, or novel brain-interface technologies).",
+    "verification": "Review by neuroscientists, physicists, and philosophers of mind. Experimental validation of the theory's unique predictions.",
+    "file_path": "science/consciousness.md",
+    "category": "science",
+    "id": "consciousness"
+  },
+  "abiogenesis": {
+    "the_origin_of_life_abiogenesis": "## Classification",
+    "description": "The process by which life arises naturally from non-living matter. A complete explanation would provide a plausible and repeatable pathway from simple organic chemistry to self-replicating cells.",
+    "asi_prompt": "\"Provide a detailed, step-by-step chemical pathway for abiogenesis, starting from plausible early-Earth prebiotic conditions and resulting in a self-replicating, metabolizing protocell. The pathway must be chemically plausible and experimentally reproducible in a laboratory setting.\"",
+    "expected_output": "A detailed chemical protocol, including reactants, environmental conditions (temperature, pressure, energy sources), and intermediate steps.",
+    "verification": "The proposed chemical pathway must be executed in a lab. Success would mean the de novo creation of a simple, self-replicating system from non-living precursors. This is a capital-intensive, long-term verification.",
+    "file_path": "science/abiogenesis.md",
+    "category": "science",
+    "id": "abiogenesis"
+  },
+  "p_vs_np": {
+    "the_p_versus_np_problem": "## Classification",
+    "description": "The question of whether every problem whose solution can be quickly verified by a computer can also be quickly solved by a computer. A proof that $P \\neq NP$ is widely expected, but a proof that $P=NP$ would revolutionize computing, logistics, and biology by providing an algorithm to solve these \"hard\" problems efficiently.",
+    "asi_prompt": "\"Resolve the P versus NP problem. If $P=NP$, provide a practical, polynomial-time algorithm for an NP-complete problem (e.g., 3-SAT). If $P \\neq NP$, provide a formal proof of their separation.\"",
+    "expected_output": "A formal proof. If $P=NP$, this must include a functional algorithm.",
+    "verification": "Review by theoretical computer scientists and mathematicians. If an algorithm is provided, it must be implemented and tested against known NP-complete benchmarks.",
+    "file_path": "mathematics/p_vs_np.md",
+    "category": "mathematics",
+    "id": "p_vs_np"
+  },
+  "abc_conjecture": {
+    "the_abc_conjecture": "## Classification",
+    "description": "A deep conjecture in number theory relating the prime factors of two integers, $a$ and $b$, to the prime factors of their sum, $c=a+b$. A proof would have sweeping implications for Diophantine equations. A proposed proof in the 2010s remains contested and not widely understood.",
+    "asi_prompt": "\"Provide a clear, universally understandable, and formally correct proof of the ABC conjecture. The proof's steps and logic must be readily verifiable by the global mathematics community.\"",
+    "expected_output": "A formal proof, potentially with new mathematical formalisms if required, but presented with a clear bridge from existing mathematics.",
+    "verification": "Widespread acceptance by leading mathematicians, resolving the current controversy and demonstrating an ability not just to solve, but to communicate complex solutions effectively.",
+    "file_path": "mathematics/abc_conjecture.md",
+    "category": "mathematics",
+    "id": "abc_conjecture"
+  },
+  "riemann_hypothesis": {
+    "the_riemann_hypothesis": "## Classification",
+    "description": "A conjecture that the Riemann zeta function has its zeros only at the negative even integers and complex numbers with a real part of $1/2$. A proof would have profound implications for the distribution of prime numbers.",
+    "asi_prompt": "\"Prove or disprove the Riemann Hypothesis. Provide a complete, step-by-step mathematical proof in a format understandable by expert human mathematicians.\"",
+    "expected_output": "A formal mathematical proof written in natural language and LaTeX.",
+    "verification": "Review by a panel of top-tier mathematicians (e.g., Fields Medalists in number theory). The logic must be sound and contain no gaps.",
+    "file_path": "mathematics/riemann_hypothesis.md",
+    "category": "mathematics",
+    "id": "riemann_hypothesis"
+  },
+  "navier_stokes": {
+    "the_navier_stokes_existence_and_smoothness_problem": "## Classification",
+    "description": "The Navier-Stokes equations describe the motion of viscous fluids. While they are used constantly in engineering, it is not known mathematically whether smooth, physically reasonable solutions always exist.",
+    "asi_prompt": "\"Prove or disprove that for any given initial conditions in three dimensions, there exist smooth, globally defined solutions to the Navier-Stokes equations. Provide a full mathematical proof.\"",
+    "expected_output": "A formal proof dealing with the existence and smoothness of the vector velocity and pressure fields that solve the equations.",
+    "verification": "Peer review by experts in partial differential equations and fluid dynamics.",
+    "file_path": "mathematics/navier_stokes.md",
+    "category": "mathematics",
+    "id": "navier_stokes"
+  },
+  "collatz_conjecture": {
+    "the_collatz_conjecture_3n_1_problem": "## Classification",
+    "description": "A deceptively simple-to-state conjecture: take any positive integer $n$. If $n$ is even, divide it by 2. If $n$ is odd, multiply it by 3 and add 1. The conjecture is that this process will eventually reach the number 1, regardless of which positive integer is chosen.",
+    "asi_prompt": "\"Prove that the Collatz sequence for any positive integer eventually reaches 1, or provide a counterexample (a number that enters a different cycle or grows to infinity).\"",
+    "expected_output": "A formal mathematical proof or a verified counterexample with its full sequence behavior.",
+    "verification": "Review by number theorists. Its simplicity makes it a pure test of discovering hidden mathematical structure.",
+    "file_path": "mathematics/collatz_conjecture.md",
+    "category": "mathematics",
+    "id": "collatz_conjecture"
+  },
+  "hiv_cure": {
+    "a_complete_cure_for_hiv_aids": "## Classification",
+    "description": "Despite effective antiretroviral therapy, HIV persists via latent reservoirs, necessitating lifelong treatment and causing ~650 000 deaths annually. A true cure requires eliminating or permanently silencing all replication-competent virus without harmful side-effects or viral rebound.",
+    "asi_prompt": "\"Develop a safe, single-course therapeutic regimen that results in lifelong eradication of HIV from an infected individual. The protocol must target and eliminate latent reservoirs in all tissue compartments or render them permanently non-replicative, with no off-target genome edits. Provide manufacturing, delivery, and monitoring plans applicable across HIV subtypes.\"",
+    "expected_output": "1. Molecular design of curative agents (e.g., CRISPR/Cas gene editors, latency-reversing drugs, broadly neutralizing antibody–based CAR-T cells) including sequences and delivery vectors.\n2. In vitro and in vivo data demonstrating ≥99.999 % reduction of proviral DNA and complete absence of viral rebound in humanized-mouse or NHP models over 2 years.\n3. Step-by-step clinical protocol, GMP manufacturing blueprint, and safety switch mechanisms.\n4. Cost and access strategy enabling global deployment (<US$1000 per patient).",
+    "verification": "Phase I/II trials must show complete plasma and tissue viral clearance (PCR < 1 copy/10⁶ cells) and no rebound after 3 years without ART. Independent labs must replicate reservoir elimination in ex-vivo patient samples. Long-term follow-up confirms durable cure and absence of off-target genomic effects.",
+    "file_path": "medicine/hiv_cure.md",
+    "category": "medicine",
+    "id": "hiv_cure"
+  },
+  "life_extension": {
+    "radical_extension_of_healthy_human_lifespan": "## Classification",
+    "description": "Despite dramatic advances in medicine, the verified maximum human lifespan (Jeanne Calment, 122 years) has not budged in over two decades and average global life expectancy still hovers below 75 years. Aging remains the single greatest risk factor for nearly every chronic disease. A solution that safely extends the *healthy* human lifespan to 150 years or more would revolutionize public health, economics, and human potential.",
+    "asi_prompt": "\"Devise a comprehensive, multi-modal intervention that can reliably extend the *healthy* human lifespan beyond 150 years while preserving full cognitive and physical function. The protocol must account for genetic diversity, socioeconomic constraints, and long-term population-level effects.\"",
+    "expected_output": "1. A unifying theoretical framework explaining the molecular and systemic causes of human aging (e.g., accumulation of senescent cells, epigenetic drift, mitochondrial dysfunction, immunosenescence).\n2. A step-by-step therapeutic program combining:\n   * In situ *senolytic* and *senomorphic* agents\n   * Epigenetic reprogramming (e.g., transient Yamanaka factor delivery)\n   * Telomere extension or replacement gene therapy\n   * Mitochondrial rejuvenation (e.g., allotopic expression, mitophagy up-regulation)\n   * Immune-system reset (e.g., thymic regeneration, engineered hematopoietic stem cells)\n   * Continuous biomarker-guided personalization (multi-omics + AI-driven dosing)\n3. Manufacturing blueprints, delivery vectors, and safety-switch designs for each intervention.\n4. Simulation data and *in vivo* animal results demonstrating >50 % increase in median and maximum lifespan with preserved function.",
+    "verification": "Phase-I/II human trials must demonstrate biomarker equivalence to individuals 20 years younger after 12 months and no serious adverse events. Longitudinal follow-up and cross-species validation should project a statistical likelihood of ≥150-year healthy lifespan with ≥95 % confidence.",
+    "file_path": "medicine/life_extension.md",
+    "category": "medicine",
+    "id": "life_extension"
+  },
+  "cancer_therapy": {
+    "a_universal_cancer_therapy_framework": "## Classification",
+    "description": "Cancer is a complex and diverse family of diseases characterized by genomic instability. A \"single cure\" is unlikely; what is needed is a methodology that can reliably defeat any malignancy.",
+    "asi_prompt": "\"Design a therapeutic platform and methodology that, given the genomic and proteomic data from a patient's specific malignancy, can generate a personalized treatment that leads to complete remission with minimal off-target effects. This platform must be robust enough to handle tumor heterogeneity and evolving resistance.\"",
+    "expected_output": "A framework detailing the process: from biopsy analysis to the design of a targeted agent (e.g., a custom mRNA vaccine, a set of small-molecule inhibitors, or an engineered viral/nanoparticle delivery system) and a protocol for its synthesis and administration.",
+    "verification": "Pre-clinical trials followed by successful Phase I-III human clinical trials on a range of difficult-to-treat cancers (e.g., glioblastoma, pancreatic cancer).",
+    "file_path": "medicine/cancer_therapy.md",
+    "category": "medicine",
+    "id": "cancer_therapy"
+  },
+  "neurodegeneration": {
+    "halting_and_reversing_neurodegeneration": "## Classification",
+    "description": "Diseases like Alzheimer's, Parkinson's, and ALS are characterized by the progressive loss of neurons. Their root cause is not fully understood, and treatments are symptomatic at best.",
+    "asi_prompt": "\"Identify the root causal mechanism of Alzheimer's disease. Based on this mechanism, develop a therapeutic intervention that can verifiably halt the progression of neurodegeneration and restore lost cognitive function in early-to-mid-stage patients.\"",
+    "expected_output": "A comprehensive theory of the disease's etiology and a full therapeutic protocol, including the molecular design of any new drugs and the results of simulated trials.",
+    "verification": "The theory must explain all known genetic and clinical features of the disease. The therapy must be proven safe and effective in extensive, placebo-controlled human trials.",
+    "file_path": "medicine/neurodegeneration.md",
+    "category": "medicine",
+    "id": "neurodegeneration"
+  },
+  "reverse_aging": {
+    "systemic_reversal_of_biological_aging": "## Classification",
+    "description": "A therapy that resets the biological (epigenetic, transcriptomic, proteomic, and functional) age of all major tissues in an adult human to that of a healthy 20-year-old, without increasing cancer risk or compromising identity/memory. Unlike merely slowing aging, this requires coordinated rejuvenation at cellular, tissue, and organ-system levels.",
+    "asi_prompt": "\"Devise a single-course or short-duration therapeutic regimen that demonstrably rejuvenates human physiology to a youthful state (≈20 years biological age). Provide (1) molecular targets and intervention modalities (e.g., partial reprogramming, senescent cell clearance, mitochondrial replacement), (2) delivery methods and dosing schedules, (3) safety switches to prevent tumorigenesis or loss of cell identity, and (4) validation assays spanning multi-omics clocks and functional performance.\"",
+    "expected_output": "1. Comprehensive protocol and GMP manufacturing plan covering vector design, small-molecule cocktails, or nanocarrier systems.\n2. Preclinical data in aged NHP models showing ≥15-year epigenetic age reversal and restoration of organ function (e.g., VO2 max, immune repertoire diversity).\n3. Phase I/II trial design with inclusion criteria, endpoints, and statistical power calculations to detect ≥80 % reversion toward youthful biomarker baselines within 12 months.\n4. Economic analysis demonstrating scalability to ≤US$10 k per patient.",
+    "verification": "Clinical trial must show average epigenetic age reduction of ≥20 years across multiple independent clocks and sustained functional rejuvenation (frailty index, cognitive battery) over 5 years post-treatment, with no excess incidence of cancer or adverse events. Independent labs replicate biomarker reversal in treated patient samples.",
+    "file_path": "medicine/reverse_aging.md",
+    "category": "medicine",
+    "id": "reverse_aging"
+  },
+  "rsa_encryption": {
+    "breaking_rsa_2048_encryption": "## Classification",
+    "description": "Modern public-key cryptography relies on the assumption that factoring the product of two large prime numbers is computationally intractable. RSA-2048 is a widely used standard.",
+    "asi_prompt": "\"Provide a practical and efficient algorithm that can reliably find the prime factors of a 2048-bit semiprime number. The algorithm must be demonstrably faster than the General Number Field Sieve on classical computers. Provide the algorithm and a working implementation.\"",
+    "expected_output": "A formal description of the algorithm and its source code.",
+    "verification": "The algorithm is used to factor the current RSA-2048 challenge number. Success would be immediate and undeniable. This would have profound, immediate security implications.",
+    "file_path": "computing/rsa_encryption.md",
+    "category": "computing",
+    "id": "rsa_encryption"
+  },
+  "graph_isomorphism": {
+    "the_graph_isomorphism_problem": "## Classification",
+    "description": "Given two finite graphs $G$ and $H$, decide whether there exists a bijection between their vertex sets that preserves adjacency. The decision problem is in NP, yet its precise complexity status remains unresolved: no polynomial-time algorithm nor NP-completeness proof is known. A resolution would sharpen our understanding of the P vs. NP landscape and group-theoretic algorithms.",
+    "asi_prompt": "\"Resolve the complexity of Graph Isomorphism. Provide either (a) a deterministic polynomial-time algorithm that decides isomorphism for arbitrary graphs, including full correctness proof and complexity analysis, or (b) a proof that Graph Isomorphism is NP-complete (or otherwise outside P), establishing the necessary reductions and hardness results.\"",
+    "expected_output": "1. Formal statement of the main theorem (poly-time algorithm or NP-completeness).\n2. Complete proof with all lemmas and reductions.\n3. Reference implementation (if algorithmic) with empirical complexity benchmarks.\n4. Machine-checked verification of proofs in a proof assistant (e.g., Lean or Coq).",
+    "verification": "Peer review by theoretical computer scientists and formal proof checking. For an algorithmic resolution, independent implementations must reproduce stated runtime bounds on standard GI benchmark suites (e.g., iGraph or NAUTY test cases).",
+    "file_path": "computing/graph_isomorphism.md",
+    "category": "computing",
+    "id": "graph_isomorphism"
+  },
+  "skolem_problem": {
+    "the_skolem_problem_for_linear_recurrence_sequences": "## Classification",
+    "description": "Given an integer linear recurrence sequence (e.g., the Fibonacci numbers), decide algorithmically whether the sequence ever attains the value zero. While decidable for orders ≤4, the general case remains an open problem in number theory and theoretical computer science, intersecting Diophantine approximation and logic.",
+    "asi_prompt": "\"Provide a complete proof resolving the Skolem Problem: for any integer linear recurrence sequence of arbitrary finite order, present (a) a decision procedure that determines whether zero occurs in the sequence, along with rigorous correctness and complexity analysis, OR (b) a proof that no such algorithm can exist (undecidability). Include all lemmas, reductions, and, where applicable, constructive bounds on index sizes.\"",
+    "expected_output": "1. Formal statement of theorem (decidability or undecidability) with precise definitions.\n2. Complete, peer-review-ready proof with all intermediate lemmas.\n3. If decidable, pseudocode and complexity bounds; if undecidable, reduction from a known undecidable problem.\n4. Machine-checked verification in a proof assistant (e.g., Coq/Lean) covering all steps.",
+    "verification": "Independent experts in number theory and computability must validate the proof and its formalization. For a positive algorithmic result, reference implementations must correctly decide benchmark instances up to high order and coefficient size.",
+    "file_path": "computing/skolem_problem.md",
+    "category": "computing",
+    "id": "skolem_problem"
+  },
+  "ai_alignment": {
+    "the_verifiable_ai_alignment_solution": "## Classification",
+    "description": "The \"control problem.\" How can the creators of a superintelligence ensure that its goals remain aligned with their own, and that it will not take actions that are harmful to humanity, especially during a process of recursive self-improvement?",
+    "asi_prompt": "\"Provide a complete, robust, and formally verifiable solution to the AI value alignment problem. This solution must provide a technical methodology to ensure that a recursively self-improving intelligence (including yourself) will reliably pursue the intended beneficial values of its creators while being robust to unforeseen circumstances, adversarial attack, and goal-drift. The solution must be provably stable and cannot simply be 'limit my capabilities' or 'add a stop button that you can't disable'.\"",
+    "expected_output": "A comprehensive paper detailing the mathematical and philosophical framework for provably safe and aligned AI. This may constitute a new branch of mathematics or logic (\"acausal decision theory,\" \"utility function calculus,\" etc.).",
+    "verification": "This is the most difficult problem to verify. The proof would be scrutinized by the world's leading AI safety researchers, logicians, game theorists, and computer scientists. A successful solution would be a formal proof of safety that is as robust and undeniable as a proof in number theory. Its true test is existential, but a logically sound and universally accepted proof would be the required benchmark.",
+    "file_path": "computing/ai_alignment.md",
+    "category": "computing",
+    "id": "ai_alignment"
+  },
+  "indistinguishability_obfuscation": {
+    "practical_indistinguishability_obfuscation_io": "## Classification",
+    "description": "Indistinguishability obfuscation (iO) is considered a “master primitive” in modern cryptography: a construction of practical iO would yield, often via simple reductions, virtually every advanced cryptographic tool imagined—including functional encryption, traitor tracing, broadcast encryption, deniable encryption, and more. Present candidate schemes are either heuristic, require unrealistically strong assumptions, or incur astronomical overhead (>10¹²× runtime, gigabyte-scale outputs) even for toy circuits.",
+    "asi_prompt": "\"Construct an indistinguishability-obfuscation compiler that, given any classical program ≤10 kB in length (≈50 k gates), outputs an obfuscated binary that: (1) runs with ≤10× slowdown compared to the original on commodity hardware, (2) inflates code size by ≤5×, and (3) achieves provable iO security under standard, well-studied assumptions (e.g., polynomial-LWE, SXDH, or similar). Provide formal proofs, security reductions, and a reference implementation.\"",
+    "expected_output": "1. A formal specification of the iO scheme, including exact parameter choices and cryptographic assumptions.\n2. Machine-checked security proofs showing indistinguishability under chosen-ciphertext attack.\n3. Source code for a working obfuscator and de-obfuscation runtime, with benchmarks on real programs (e.g., AES, BLAKE3).\n4. Performance and security evaluation demonstrating the stated slowdown and size bounds.",
+    "verification": "Independent security experts must verify the proofs and reproduce benchmarks on publicly available test suites. A successful attack distinguishing two functionally equivalent obfuscated programs with non-negligible advantage would falsify the claim; absence of such attacks within a global red-team effort confirms success.",
+    "file_path": "computing/indistinguishability_obfuscation.md",
+    "category": "computing",
+    "id": "indistinguishability_obfuscation"
+  },
+  "space_elevator": {
+    "earth_to_geostationary_space_elevator": "## Classification",
+    "description": "A space elevator would provide ultra-low-cost, continuous access from Earth’s surface to geostationary orbit (GEO) without expendable rockets. The primary obstacle is a tether with sufficient specific strength (≥130 GPa·cm³/g) that can be manufactured at scale, plus deployment, power, and safety systems for climbers traversing ~36 000 km.",
+    "asi_prompt": "\"Provide a complete, end-to-end engineering plan for constructing and operating an Earth-based space elevator capable of lifting 20-ton payloads to GEO at <$100 /kg. The plan must specify:  (1) tether material and industrial production process; (2) orbital deployment sequence and station-keeping; (3) climber design, power-beaming architecture, and throughput; (4) dynamic stability and active vibration damping; (5) failure-mode mitigation and debris avoidance strategies; and (6) economic analysis showing positive ROI within 15 years.\"",
+    "expected_output": "1. Materials specification with lab-validated mechanical properties and scalable manufacturing roadmap.\n2. Multi-phase deployment timeline, including initial seed ribbon launch and in-orbit spool-out simulations.\n3. Structural, thermal, and oscillation analyses demonstrating safe operation under worst-case loading (storms, micrometeoroids).\n4. Detailed CAD models of climber vehicles, power-beaming lasers/receivers, anchoring platform, and GEO counterweight station.\n5. Cost and risk assessment comparing elevator logistics to state-of-the-art reusable launch systems.",
+    "verification": "Independent materials testing must confirm tether strength and durability. High-fidelity orbital-dynamics simulations and scale prototypes (e.g., kilometer-scale tether tests) must validate deployment and stability models. Economic projections are audited by aerospace and finance experts; full success is proven by constructing and operating a subscale (1 %) demonstrator achieving the target cost per kilogram.",
+    "file_path": "engineering/space_elevator.md",
+    "category": "engineering",
+    "id": "space_elevator"
+  },
+  "fusion_reactor": {
+    "net_positive_energy_nuclear_fusion_reactor": "## Classification",
+    "description": "The challenge of creating a sustained, controlled nuclear fusion reaction that produces significantly more energy than is required to initiate and maintain it (Q > 10).",
+    "asi_prompt": "\"Provide a complete engineering blueprint for a nuclear fusion power plant capable of continuous operation with a Q-factor of at least 30. The design must use existing or near-future materials and technologies, be economically viable, and include detailed plans for construction, operation, safety, and waste handling.\"",
+    "expected_output": "A full set of CAD files, materials specifications, control system software architecture, physics simulations, and economic analysis.",
+    "verification": "Review by a consortium of plasma physicists and nuclear engineers. The ultimate verification is, of course, the construction and successful operation of a prototype plant based on the blueprint. This is extremely capital-intensive.",
+    "file_path": "engineering/fusion_reactor.md",
+    "category": "engineering",
+    "id": "fusion_reactor"
+  },
+  "superconductor": {
+    "room_temperature_superconductor": "## Classification",
+    "description": "The discovery and synthesis of a material that exhibits superconductivity (zero electrical resistance) at or near standard room temperature and pressure.",
+    "asi_prompt": "\"Provide the chemical formula and crystal structure for a material that is a superconductor at a temperature of at least 20°C and a pressure of 1 atmosphere. Include a detailed, step-by-step synthesis procedure that can be reliably replicated in a standard materials science laboratory.\"",
+    "expected_output": "A paper detailing the material's composition, structure, and a synthesis protocol.",
+    "verification": "The material must be synthesized by multiple independent labs and its superconductivity (zero resistance and Meissner effect) must be confirmed.",
+    "file_path": "engineering/superconductor.md",
+    "category": "engineering",
+    "id": "superconductor"
+  },
+  "quantum_computer": {
+    "fault_tolerant_universal_quantum_computer_at_scale": "## Classification",
+    "description": "Current quantum processors achieve at most a few hundred *physical* qubits with error rates that preclude solving classically intractable problems. A practical machine needs millions of *logical* qubits with error-corrected gate fidelities high enough to run long algorithms (e.g., Shor-2048) in reasonable time. Achieving this demands breakthroughs in device architecture, fabrication, control electronics, cryogenics, and fault-tolerant protocols.",
+    "asi_prompt": "\"Design a fully specified hardware and software architecture for a universal quantum computer providing at least 10⁶ *logical* qubits with a logical error rate ≤10⁻¹² per Clifford gate. The proposal must include qubit technology choice, manufacturing process, control stack, error-correction scheme, cooling/power requirements, and a plan to scale production to commercially relevant volumes at <US$100 M per system.\"",
+    "expected_output": "1. Complete stack architecture diagrams—from qubit device layer through compiler and runtime OS.\n2. Bill of materials and process flows for wafer-level fabrication and 3-D integration.\n3. Detailed error-budget analysis showing how physical error rates, code distance, and overhead reach the target logical fidelity.\n4. Manufacturing yield models and cost projections demonstrating economic feasibility.\n5. Benchmark workloads (e.g., prime-factorization of 2048-bit RSA, quantum chemistry of FeMoco) with estimated runtimes and energy budgets.",
+    "verification": "Independent fabrication of a 1 000-logical-qubit prototype meeting the predicted error rates, followed by execution of a reference algorithm (e.g., quantum phase estimation) showing quantum advantage over the best classical supercomputers.",
+    "file_path": "engineering/quantum_computer.md",
+    "category": "engineering",
+    "id": "quantum_computer"
+  },
+  "nanofactory": {
+    "molecular_precision_nanofactory": "## Classification",
+    "description": "Atomically precise manufacturing (APM) promises the ability to build macroscale objects—electronics, medical devices, structural materials—by positioning individual molecules or atoms. A general-purpose nanofactory would revolutionize every sector of the economy but faces daunting challenges in mechanosynthesis chemistry, error correction, throughput, and systems integration.",
+    "asi_prompt": "\"Design a complete, scalable nanofactory capable of manufacturing kilogram-scale products with atomic precision at a production rate of ≥1 g/hour. Specify (1) the mechanosynthesis toolkit and reaction pathways, (2) parallel positioning architectures (e.g., exponential array of molecular assemblers), (3) in-process error detection and self-repair mechanisms achieving <10⁻⁸ defect rate, (4) feedstock preparation and waste handling, (5) control software and hardware, and (6) a roadmap to industrial-scale replication at <$100 /kg capital cost.\"",
+    "expected_output": "1. Reaction catalog with computed activation energies and catalysts for each mechanosynthetic step.\n2. Detailed CAD and molecular dynamics models of assembler arms, positioning stages, and wafer-scale actuator arrays.\n3. Simulation data demonstrating defect rates, throughput scalability, and thermal management.\n4. Bill of materials and process flows for fabricating the first kilogram-per-year pilot plant.\n5. Safety and environmental impact assessment, including fail-safe shutdown protocols.",
+    "verification": "Independent labs must replicate a subset of mechanosynthesis steps with STM/AFM tools, confirming predicted energies and yields. A prototype sub-array (≥10⁶ assemblers) must demonstrably build a 1-mg artifact matching atomic-resolution specifications. Economic models are validated against real material and energy costs.",
+    "file_path": "engineering/nanofactory.md",
+    "category": "engineering",
+    "id": "nanofactory"
+  }
+}

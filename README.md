@@ -57,3 +57,5 @@ The criteria do not account for the capital requirements and implementation cost
 
 This repository contains the problem statements and classification system for ASI's First Exam. Each domain has its own directory with detailed problem descriptions.
 
+The exam data is also stored in json format in domains/domains_data.json.
+
