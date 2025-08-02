@@ -7,18 +7,17 @@ Perhaps you’ve heard of Humanity’s Last Exam. This is one of the hardest ben
 
 Meanwhile, we’re hearing talk about Artificial Superintelligence (ASI) potentially being on the horizon. AI that can improve AI autonomously has been proved in concept in recent research, and while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
 
-A question looms, however. How will we know when ASI has actually been achieved? As traditional Q/A benchmarks become saturated, we will need to think creatively.
+A question looms, however. How will we know when ASI has actually been achieved? How can we determine something is smarter than us? The question has the makings of an epistemological paradox. As traditional Q/A benchmarks become saturated, we will need to think creatively.
 
-Few appreciate what the actual implications of ASI are. To truly put it into perspective, we should be able to prompt things that are beyond any human's capability. 
+Few appreciate what the actual implications of ASI are. ASI should be capable of doing things people can’t, no matter how smart, by definition. ASI, therefore, must solve problems even the best and brightest haven’t. The bar is very high. This is why we propose ASI’s First Exam, consisting of some of the greatest unanswered and unsolved intellectual challenges. For example, we should be able to prompt ASI for “a functional blueprint to a nuclear fusion reactor”, or a “consistent and verifiable theory of quantum gravity”, or a “cure for cancer.” or to “prove the the Riemann hypothesis.” 
 
-ASI should be capable of doing things people can’t, no matter how smart, by definition. ASI, therefore, must solve problems even the best and brightest haven’t. The bar is very high. This is why we propose ASI’s First Exam, consisting of some of the greatest unanswered and unsolved intellectual challenges. For example, we should be able to prompt ASI for “a functional blueprint to a nuclear fusion reactor”, or a “consistent and verifiable theory of quantum gravity”, or a “cure for cancer.” or to “prove the the Riemann hypothesis.” Because these problems are unsolved, the benchmark assumes that the model’s answers will be verified by a group of experts in the respective field except for some mathematical or computer science challenges whose proofs might be automated. Confirming some answers to many of these questions, particularly the medical and engineering problems, are therefore capital-intensive. It would take effort and time for a team of nuclear engineers to confirm that a particular blueprint for a fusion reactor is functional, for example. 
+Because these problems are unsolved, the benchmark assumes that the model’s answers will be verified by a group of experts in the respective field with sufficient equipment to implement the solution, except for some mathematical or computer science challenges whose proofs might be automated. Confirming some answers to many of these questions, particularly the medical and engineering problems, are therefore capital-intensive. It would take effort and time for a team of nuclear engineers to confirm that a particular blueprint for a fusion reactor is functional, for example. 
 
 One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display true superintelligence to propose true solutions. No amount of memorization or pattern recognition will be sufficient. 
 
 There may come a time when ASI is so intelligent that we can't verify its answers because we no longer lack a  frame of reference to connect it to human knowledge. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
 
-The structure of the benchmark is as follows:
- 
+---
 
 ## Structure
 
@@ -39,6 +38,7 @@ Prompts are selected based on a few criteria.
 
 The criteria do not account for the capital requirements and implementation costs of certain solution proposals. The expectation is whatever agency gets to ASI will have sufficient resources to fund the verification of the proposed solutions. 
 
+---
 
 ## Domains
 
@@ -49,6 +49,8 @@ The criteria do not account for the capital requirements and implementation cost
 5. Engineering & Technology
 6. Computing & Cryptography
 7. General
+
+---
 
 ## Usage
 
