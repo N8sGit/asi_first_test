@@ -13,9 +13,9 @@ Few appreciate what the actual implications of ASI are. ASI should be capable of
 
 Because these problems are unsolved, the benchmark assumes that the model’s answers will be verified by a group of experts in the respective field with sufficient equipment to implement the solution, except for some mathematical or computer science challenges whose proofs might be automated. Confirming some answers to many of these questions, particularly the medical and engineering problems, are therefore capital-intensive. It would take effort and time for a team of nuclear engineers to confirm that a particular blueprint for a fusion reactor is functional, for example, if the verification process involved building a working prototype. 
 
-One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display true superintelligence to propose true solutions. No amount of memorization or pattern recognition will be sufficient. 
+One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display genuine superintelligence to propose true solutions. No amount of memorization or pattern recognition will suffice. 
 
-There may come a time when ASI is so intelligent that we can't verify its answers because we no longer lack a  frame of reference to connect it to human knowledge. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
+There may come a time when ASI is so intelligent that we can't verify its answers because we no longer lack a frame of reference to connect it to human knowledge. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
 
 ---
 
@@ -34,7 +34,8 @@ The exam is organized into domains, each containing problems classified by type:
 Prompts are selected based on a few criteria. 
 
 1. The problem must be unsolved according to the best available public information
-2. The problem must be verifiable *in principle* if not immediately in practice. If it turns out the problem is unsolvable, (a possibility for some unknown truths) the ASI should prove it is unsolvable.
+2. The problem must be verifiable *in principle* if not immediately in practice. 
+3. If it turns out the problem is unsolvable, (a possibility for some unknown truths) the ASI should prove it is unsolvable.
 
 The criteria do not account for the capital requirements and implementation costs of certain solution proposals. The expectation is whatever agency gets to ASI will have sufficient resources to fund the verification of the proposed solutions. 
 
