@@ -13,7 +13,7 @@ Few appreciate the actual implications of ASI. ASI should be capable of doing th
 
 Because these problems are unsolved, the benchmark assumes that the model’s answers will be verified by a group of experts in the respective field with adequate equipment to implement the solution. Confirming the solutions to some of these prompts, especially the medical and engineering ones, will necessarily be capital-intensive. It would take effort and time for a team of nuclear engineers to confirm that a particular blueprint for a fusion reactor is functional, for example, if the verification process involves building a working prototype. 
 
-One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display genuine superintelligence to propose true solutions. No amount of memorization or pattern recognition will suffice. 
+One of the advantages of this approach is that because the problems are unsolved, there can be no training data contamination and the model must actually display genuine superintelligence to propose true solutions. No amount of memorization or pattern association will suffice. 
 
 There may come a time when ASI is so intelligent that we can't verify its answers because we no longer posses a frame of reference to connect what it says to human knowledge. It would be like trying to explain quantum physics to a caveman. At that point no sort of benchmarking would help. However, this benchmark focuses on problems that are "known unknowns" and therefore recognizable as active research areas whose solutions make sense in the light of existing knowledge.
 
