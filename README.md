@@ -3,7 +3,7 @@
 
 ## Rationale
 
-[Humanity’s Last Exam](https://lastexam.ai/) is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models score around 25% at the highest settings. Whether models beat these benchmarks by genuinely solving the problems or by memorizing answer leaks in their training data is debated, however HLE is explicitly designed to control for this. Neverthless, the possibility of most existing benchmarks that include known answers being staurated within the next several years is a real concern. 
+[Humanity’s Last Exam](https://lastexam.ai/) is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models score around 25% at the highest settings. Whether models beat these benchmarks by genuinely solving the problems or by memorizing answer leaks in their training data is debated, however HLE is explicitly designed to control for this. Neverthless, the possibility of most existing benchmarks that involve questions with known answers being staurated within the next several years is a real concern. 
 
 Meanwhile, there's talk about Artificial Superintelligence (ASI) potentially being [on the horizon](https://www.nbcnews.com/tech/tech-news/zuckerberg-says-ai-superintelligence-sight-touts-new-era-personal-empo-rcna221918). AI that can improve AI autonomously has been proved in concept in recent research, (see [ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch/tree/main) for one example, although several others exist, such as Absolute Zero Reasoner and Darwinian Gödel Machines). And while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
 
