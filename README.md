@@ -3,7 +3,7 @@
 
 ## Rationale
 
-[Humanity’s Last Exam](https://lastexam.ai/) is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models  score around 25% at the highest settings, and whether they do so by genuinely solving the problems or by memorizing answer leaks in their training data is debated. 
+[Humanity’s Last Exam](https://lastexam.ai/) is one of the hardest benchmarks for LLMs ever assembled. As of this writing, the best models  score around 25% at the highest settings.  Whether models beat these benchmarks by genuinely solving the problems or by memorizing answer leaks in their training data is debated, however HLE is explicitly designed to control for this. Neverthless,  the possibility of most existing benchmarks that include known answers being staurated within the next several years is a real concern. 
 
 Meanwhile, there's talk about Artificial Superintelligence (ASI) potentially being [on the horizon](https://www.nbcnews.com/tech/tech-news/zuckerberg-says-ai-superintelligence-sight-touts-new-era-personal-empo-rcna221918). AI that can improve AI autonomously has been proved in concept in recent research, (see [ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch/tree/main) for one example, although several others exist, such as Absolute Zero Reasoner and Darwinian Gödel Machines). And while the ceiling to such boostrapping processes is unknown, it’s reasonable to assume it will further accelerate AI’s already rapid progress.
 
@@ -60,4 +60,10 @@ The criteria do not account for the capital requirements and implementation cost
 This repository contains the problem statements and classification system for ASI's First Exam. Each domain has its own directory with detailed problem descriptions.
 
 The exam data is also stored in json format in domains/domains_data.json.
+
+## Future Work
+
+Some ideas for future work include:
+
+- Develop a gradient of difficulty for the problems. It seems unlikely that ASI will suddenly be able to solve all of the hardest problems instantly. More likely it will gradually improve beyond human capabilities rather than leap beyond us all at once. And while it's subjective to rate problem difficulty, it's clear a prompt such as "cure this disease" is intrinsically easier than "cure all diseases." 
 
